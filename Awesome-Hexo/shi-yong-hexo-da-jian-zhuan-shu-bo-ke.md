@@ -16,6 +16,8 @@
 
 > 访问Github官网[http://www.GitHub.com/](http://www.GitHub.com/)，新建一个与你用户名一致的仓库，仓库名必须为：your\_user\_name（Github账号名）.github.io
 
+![](/assets/create_repository_for_blog.png)
+
 ### 2.2 配置SSH-Key
 
 ## 3.快速上手Hexo
@@ -24,10 +26,12 @@
 
 > 打开Git命令行，执行如下命令：`npm install -g hexo`
 
+![](/assets/C4EC%28ZV0~~H[OG~]9LGR]UM.png)
+
 ### 3.2开始创建
 
 > 在电脑中建立一个名字叫Hexo的文件夹，然后在此文件夹中执行命令：`hexo init`Hexo随后会自动在目标文件夹建立网站所需要的文件。  
-> 然后按照提示，执行命令: `npm install`在该目录下安装node\_modules的相关文件
+> 然后按照提示，执行命令: `npm install`在该目录下安装node\_modules的相关文件![](/assets/MAH1CAMCU$AY%]$Y3~4SINV.png)
 
 ### 3.3开启服务
 
@@ -48,11 +52,11 @@
 
 ### 3.7部署到Github
 
-> 部署到Github前需要配置\_config.yml文件，首先找到下面的内容
+> 部署到Github前需要配置`_config.yml`文件，首先找到下面的内容
 
 ### 3.8测试网页
 
-> 当部署完成后，在浏览器中打开[http://youusername.github.io/，网页正常显示，则表明部署已经成功。、](http://youusername.github.io/，网页正常显示，则表明部署已经成功。、)
+> 当部署完成后，在浏览器中打开`http://youusername.github.io/`，网页正常显示，则表明部署已经成功。、
 
 ## 4.常用命令
 
